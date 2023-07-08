@@ -11,5 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://zziuning.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://zziuning.github.io/hello/</link>
+      <pubDate>Sun, 09 Jul 2023 01:03:57 +0900</pubDate>
+      
+      <guid>https://zziuning.github.io/hello/</guid>
+      <description>블로그 첫글입니다 호호
+하이하이!! </description>
+    </item>
+    
   </channel>
 </rss>
